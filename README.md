@@ -88,3 +88,6 @@ Python app.py
         </script>
 
 ```
+4. Diagram
+
+![api_microservice_aa](https://github.com/user-attachments/assets/3bc157a7-4aaa-49dd-b0b3-960b2b4ab72b)
